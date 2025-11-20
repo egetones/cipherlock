@@ -10,7 +10,7 @@
   <strong>A lightweight CLI file encryption tool utilizing XOR logic.</strong>
 </p>
 
-[Report Bug](https://github.com/your-username/cipherlock/issues) · [Request Feature](https://github.com/your-username/cipherlock/issues)
+[Report Bug](https://github.com/egetones/cipherlock/issues) · [Request Feature](https://github.com/egetones/cipherlock/issues)
 
 </div>
 
