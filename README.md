@@ -16,7 +16,7 @@
 
 ---
 
-## 📖 Description
+## Description
 
 **CipherLock** is a C++ based command-line tool that demonstrates the fundamentals of binary file manipulation and symmetric encryption.
 
@@ -31,7 +31,7 @@ It uses the **XOR (Exclusive OR)** operation to obfuscate file contents. In the 
 
 ---
 
-## 🛠️ Installation & Compilation
+## Installation & Compilation
 
 1. **Clone the repository:**
    ```bash
