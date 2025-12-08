@@ -35,7 +35,7 @@ It uses the **XOR (Exclusive OR)** operation to obfuscate file contents. In the 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/cipherlock.git](https://github.com/your-username/cipherlock.git)
+   git clone https://github.com/egetones/cipherlock.git
    cd cipherlock
    ```
 
