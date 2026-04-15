@@ -80,3 +80,4 @@ This tool uses **Simple XOR encryption**, which is **NOT** cryptographically sec
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+Çrş 15 Nis 2026 22:15:59 +03
