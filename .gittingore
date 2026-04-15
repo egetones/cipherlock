@@ -1,0 +1,5 @@
+cipherlock
+*.o
+*.txt
+*.dosya
+.DS_Store
